@@ -90,12 +90,6 @@
 
 ---
 
-## 📜 Giấy phép
-
-MIT License © 2025
-
----
-
 ## 🤝 Đóng góp
 
 Bạn có thể mở `issue` hoặc `pull request` nếu muốn cải thiện plugin này. Mọi đóng góp đều được hoan nghênh!
