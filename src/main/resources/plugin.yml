@@ -1,0 +1,11 @@
+name: GeminiChat
+version: '1.0-SNAPSHOT'
+main: vn.lionvn.geminiChat.GeminiChat
+api-version: '1.18'
+commands:
+  askai:
+    description: Ask AI a question
+    usage: /askai <question>
+  aireload:
+    description: Reload cấu hình GeminiChat
+    permission: geminichat.reload

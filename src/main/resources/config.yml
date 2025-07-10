@@ -1,0 +1,15 @@
+# ==========================
+# 🔧 GeminiChat Plugin Config
+# ==========================
+# Cấu hình API key và model sử dụng cho Google Gemini API
+#
+# Các tùy chọn model được hỗ trợ:
+#   🔹 gemini-2.0-flash  → Miễn phí 250 requests mỗi ngày
+#   🔹 gemini-2.5-flash  → Miễn phí 200 requests mỗi ngày
+#
+# Tham khảo thêm tại: https://ai.google.dev/gemini-api/docs
+
+api-key: "YOUR_GEMINI_API_KEY"
+
+# Chọn model sử dụng (gemini-2.0-flash hoặc gemini-2.5-flash)
+model: gemini-2.5-flash

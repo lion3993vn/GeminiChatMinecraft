@@ -1,0 +1,8 @@
+name: GeminiChat
+version: 1.0
+main: vn.lionvn.geminichat.GeminiChat
+api-version: 1.18.2
+commands:
+  askai:
+    description: ask AI a question
+    usage: /askai <câu hỏi>

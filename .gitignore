@@ -1,0 +1,41 @@
+# Build outputs
+/build/
+*/build/
+.gradle/
+out/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VSCode
+.vscode/
+
+# OS system files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Minecraft server files
+run/
+cache/
+*.jar
+*.bat
+*.sh
+eula.txt
+server.properties
+world/
+world_nether/
+world_the_end/
+plugins/
+
+# Java files from generated sources
+*.class
+
+# Ignore wrapper scripts if not version controlled
+gradlew
+gradlew.bat
